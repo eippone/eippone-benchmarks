@@ -1,0 +1,1 @@
+# EIPPONE GAN Benchmarks
